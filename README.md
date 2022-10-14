@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-* I'm a web developer with passion on modern techs. <br>* Shoot me an  or add me on LinkedIn ^.^<br>
+😄 I'm a web developer with passion on modern techs. <br> 📫 Shoot me an  or add me on LinkedIn ^.^<br>
 
 
 ## 🌐 Socials:
